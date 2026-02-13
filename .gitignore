@@ -1,0 +1,4 @@
+RASTERS/
+LAYERS_environment/Centroid_10x10m_vege_cover.gpkg
+LAYERS_world/contours_velen_novigrad.gpkg
+LAYERS_world/contours_white_orchard.gpkg

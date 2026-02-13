@@ -1,0 +1,29 @@
+--- GitHub Commands for sync ---
+
+CHEAT SHEET
+	https://education.github.com/git-cheat-sheet-education.pdf
+
+initial configuratio of local github
+	git config --global user.email [user log email]
+	git config --global user.name [user name]
+
+
+download data :
+	git clone https://github.com/ice-Spurr/ICT.git
+
+open folder
+	cd ICT
+
+create a list of files to modify
+	git add .
+or
+	git add filename
+
+commit changes
+	git commit -m "change"
+
+upload to gihub
+	git push
+
+download only moficiations on files (doesn't replace local files, jus adds the modifications hosted on github)
+	git pull
