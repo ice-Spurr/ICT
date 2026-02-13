@@ -1,0 +1,15 @@
+Catégorie;CODE;Nom;Description
+Other;X1;Undetermined;Material is undetermined.
+Other;X2;Other;Material is not listed.
+Other;X3;No Walls;"Construction without walls, only with posts."
+Other;X4;Canvas;Strong fabric.
+Vegetal;V1;Planks;
+Vegetal;V2;Planks and Stones;"Lower part of the wall is made of cobbles, upper part is made of planks."
+Vegetal;V3;Beams and Cob;
+Vegetal;V4;Beams and Bricks;
+Vegetal;V5;Beams and Stone;
+Dirt;T1;Rammed earth;"Moulded mix of earth, water and fibbers"
+Dirt;T2;Cob;"mix of earth, straws and clay, applied on a wooden frame."
+Mineral;M1;Cobblestone;
+Mineral;M2;Stone Bricks;
+Mineral;M3;Bricks;

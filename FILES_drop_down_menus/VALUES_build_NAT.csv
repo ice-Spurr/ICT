@@ -1,0 +1,16 @@
+Catégorie;CODE;Nom;Description
+Professionnal;ENTERTAIN_VENUE;Place of Entertainment;(Brothel|Cabaret|Theatre) Place of entertainment.
+Religious;CHAPEL;Chapel;(NULL) Small religious building.
+Military;CASTLE;Castle;"(Fortified Castle|Manor|Residential Castle) Dwelling or former dwelling, feudal, royal or lordly."
+Military;FORT;Fort;(NULL) Defensive military construction.
+Other;UNDIFF;Undifferenciated;"(Lighthouse|NULL) Default value, whenever the general appearance of a building reveals nothing of its exact nature."
+Other;MONUMENT;Monument;(NULL) Any kind of monument.
+Professionnal;MILL;Mill;(Watermil|Windmilll) Building intended for grinding grain.
+Military;TWOER;Tower;(Watchtower|NULL) Building that stands out in the landscape due to its tall shape.
+Professionnal;GRANDSTAND;Grandstand;(NULL) Sport field grandstands.
+Other;HOUSING;Housing;(Building|House|Refugee Tent) Place of residence.
+Professionnal;SHOP;Shop;"(Armorer|Bank|Blacksmith|Butcher|Fishmonger|Hawker|Tailor) Place of business. If residence on site, add under Use."
+Professionnal;FARM_BREED;Farm : Breeding;"(Chicken_House|Cowshed|Pigsty|Sheep Barn|Stable) Place for carrying out livestock farming activities only, without habitation."
+Professionnal;FARM_CULTI;Farm : Cultivation;"(Barnhouse|Farm) Place for carrying out a cultural activity only, without habitation."
+Professionnal;INN;Inn;(NULL)Housing place for travelers.
+Professionnal;WAREHOUSE;Warehouse;(NULL) Storage place for goods.

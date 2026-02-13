@@ -1,0 +1,16 @@
+Catégorie;CODE;Nom;Description
+High vegetation;WOOD;Wood;"Cover ≥ 40%, 50 to 1000 m²"
+High vegetation;FOREST_OPEN;Open Forest;"Cover 10-40%, ≥ 500 m², clr ≥ 500 m²"
+High vegetation;FOREST_DECID;Deciduous Forest;"Cover ≥ 40%, ≥ 500 m², clr ≥ 500 m², ≥ 75% decid."
+High vegetation;FOREST_CONIF;Coniferous Forest;"Cover ≥ 40%, ≥ 500 m², clr ≥ 500 m², ≥ 75% conif."
+High vegetation;FOREST_MIXED;Mixed Forest;"Cover ≥ 40%, ≥ 500 m², clr ≥ 500 m², 25 to 75% decid."
+Low vegetation;SHRUB;Shrubland;"Cover ≥ 25%, ≥ 50 m²"
+Low vegetation;MOOR;Moor;"Cover ≥ 25%, ≥ 500 m², height ≤ 2 m"
+Low vegetation;GARDEN;Garden;"Flowers, grass, shrubs, trees used for ornament."
+Farming;HEDGE;Hedge;≥ 2 m long and ≥ 2.5 m wide
+Farming;ORCHARD;Orchard;"Tree planting, usually for fruit harvest."
+Farming;VINEYARD;Vienyard;Vine planting.
+No vegetation;ROCKS;Rocks;Emerged rocky area.
+No vegetation;DRY_SAND;Dry Sand;Emerged sandy area.
+No vegetation;EMPTY;Empty;Without notable vegetation.
+No vegetation;PEBLLES;Pebbles;Emerged pebbles.

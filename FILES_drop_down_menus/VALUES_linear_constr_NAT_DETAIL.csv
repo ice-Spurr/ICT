@@ -1,0 +1,9 @@
+Catégorie;CODE;Nom;Description
+Road Network;FOOTBRIDGE;Bridge > Footbridge;Pedestrian bridge intended for crossing an infrastructure.
+Road Network;ISOLATED_BRIDGE;Bridge > Isolated Bridge;"Isolated bridge, not connected to a communication route."
+Wall;RAMPART;Wall > Rampart;Rampart.
+Other;DRY_DOCK;Enbankment > Dry Dock;Dry dock.
+Other;DYKE;Enbankment > Dyke;"A structure generally parallel to the coast, designed to protect the coast or shoreline from flooding of the land beyond. A dike is watertight and separates areas of different elevations. It is not intended for the berthing of ships."
+Other;LAND_STAGE;Enbankment > Landing Stage;"A quay or section of a quay where ships dock to load or unload passengers (regular or tourist transport, maritime or river), not goods (see Quay). In practice, it must be the departure point for a regular or tourist maritime service."
+Other;PIER;Enbankment > Pier;"A rigid structure built, extending into the sea, a lake or a river."
+Other;PONTOON;Enbankment > Pontoon;"A structure, most often built on stilts or floating, allowing the berthing of small pleasure boats or fishing vessels."

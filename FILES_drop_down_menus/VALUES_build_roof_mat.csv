@@ -1,0 +1,12 @@
+Catégorie;CODE;Nom;Description
+Other;"01";Undetrmined;Material is undetermined.
+Other;"02";Other;Material is not listed.
+Other;"03";No Roof;Construction without a roof.
+Other;"04";Canvas;Strong fabric.
+Vegetal;"11";Thatch;Straws cover.
+Vegetal;"12";Shingles wood;Cut overlapping wood planks.
+Vegetal;"13";Planks;
+Mineral;"21";Shingles stone;Cut overlapping stone slabs.
+Mineral;"22";Stone Slabs;"Big, raw stone slabs."
+Mineral;"23";Tiles;Cooked clay tiles
+Mineral;"24";Shingles slate;Cut overlapping late slabs.

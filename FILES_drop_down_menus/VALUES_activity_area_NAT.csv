@@ -1,0 +1,29 @@
+Category;CODE;Name;Description
+Administrative;CTR_STATE_ADMIN;Central State administration;(NULL) The central government administrations include the ministries, the Senate, the Presidency of the Republic, the National Assembly and all national public institutions.
+Administrative;DECTR_STATE_SERV;Other decentralized State service;(NULL) Administrations or services that relay, at the local level, the decisions taken by the central administration. They ensure the management of state services at the local level.
+Administrative;BORDER_MARKER;Border Marker;(NULL) Border Marker.
+Administrative;HARBOUR_MASTER_OFF;Harbour's Master Office;(NULL) Building housing the various services for the management of a seaport or river port.
+Military;BARRACKS;Barracks;(NULL) Area permanently reserved for gatherings of troops of all branches.
+Military;MILITARY_CMPLX;Military Complex;(NULL) Area permanently reserved for gatherings of troops from all branches of the armed forces, either for maneuvers, exercises (training camp), or for tests, studies.
+Administrative;HIGH_EDUCATION;Higher Education;(NULL) Institution dedicated to education.
+Health;HOSPITAL;Hospital;(Homeless shelter|Hospital|Medical Tent|NULL) Establishment providing care to the sick.
+Administrative;PRISON;Penitenciary;(NULL) Closed facility designed to receive offenders sentenced to a term of imprisonment or detainees awaiting trial.
+Religion;PLACE_POWER;Place of Power;(Aard|Axii|Igni|Quen|Yrden) Place of Power, impregnated by Magic.
+Administrative;CITY_HALL;City Hall;(NULL) Building, or group of nearby buildings, where the mayor's office and municipal administration services are located, and where the municipal council normally meets.
+Artisanal;MINE;Mine;(Mineshaft|Old Mine|Underground Mine) Ore extraction site.
+Culture;MONUMENT;Monument;(Crypt|Statue|Tomb|Tumulus) Monument without any particular religious aspect.
+Culture;MEGALITH;Megalith;(NULL) Individual standing stone.
+Leisure;VIEWPOINT;Viewpoint;(NULL) place where one can enjoy a picturesque view of the landscape or a preserved natural environment.
+Leisure;SHELTER;Shelter;(Kept Refuge|Unkept Refuge) Structure located in a mountainous area, accessible to the public, and which must always offer an open shelter to allow hikers or mountaineers to spend the night under cover.
+Culture;ARCHEO_RMNS;Archaeological Remains;(NULL) Archaeological remains
+Leisure;SHELTER_MNTN;Mountain Shelter;(Hut|Sheepfold|Shelter) A shelter open to the public, whether built or natural, is a designated and authorized bivouac site. It must provide protection from dangerous weather conditions and ensure the safety of hikers on long treks without overnight accommodation.
+Culture;LANDMARK;Landmark;(Directions|Oratory|Shrine|Statue|NULL) Manmade landmark.
+Culture;STONE_CIRCLE;Stone Circle;(NULL) Standing stones placed in a circular shape
+Religion;PLACE_WORSHIP;Place of Worship;(NULL) Building reserved for the practice of religious worship.
+Leisure;CURIOSITY;Curiosity;(NULL) Notable place.
+Leisure;LEISURE_ACC;Leisure Accomodation;(Overnight Stopping Place) Accommodation or groups of non-isolated, permanent collective accommodation intended to house people during their tourist or leisure activities. Mountain shelters and refuges are excluded.
+Administrative;ROAD;Road;(Limit) Anything related to the road network.
+Residential;DISTRICT;District;(NULL) City district.
+Military;TOWER;Tower;(NULL) Defensive tower.
+Administrative (Limits);LIM_COMMUNE;Commune Limit;(NULL) Commune Limit.
+Administrative (Limits);LIM_STATE;State Border;(NULL) State border.

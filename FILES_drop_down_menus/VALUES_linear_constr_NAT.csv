@@ -1,0 +1,11 @@
+Catégorie;CODE;Nom;Description
+Other;OTHER;Other descriptive line.
+Other;DAM;Dam;(NULL) A structure built across the bed of a watercourse and creating a difference in the water level between upstream and downstream.
+Wall;FENCE;Fence;(NULL)
+Wall;WALL;Wall;(NULL) Wall, masonry or dry stone structure, longer than it is wide, at least partially bordered by a void on each side, with a minimum height of 2 m.
+Wall;WALL_RETAIN;Retaining Wall;(NULL) Wall supporting an embankment, a terrace, a terraced crop, current or former.
+Road Network;BRIDGE;Bridge;(Footbridge|Isolated Bridge|NULL) Engineering structure capable of spanning one or more elements of the road, rail or hydrographic network.
+Other;ENBANKMENT;Enbankment;(Dry Dock|Dyke|Landing Stage|Pier|Pontoon|NULL) A masonry or rockfill wall, built along a watercourse to retain the banks and prevent flooding.
+Wall;RUIN;Ruins;(NULL) Ruined building. 
+Road Network;TUNNEL;Tunnel;(NULL) An underground gallery constructed to provide passage for a communication route.
+Road Network;FORD;Ford;(NULL) Crossing of a watercourse by a road or path.

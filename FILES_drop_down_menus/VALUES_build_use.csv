@@ -1,0 +1,10 @@
+Catégorie;CODE;Nom;Description
+Professional;AGRICOLE;Agricultural;Building reserved for agricultural activities.
+Professional;ARTISANAL;Artisanal;Building reserved for artisanal activities.
+Professional;COMMERCIAL;Commercial;Building intended for commercial use.
+Other;RESIDENTIAL;Residential;Residential building.
+Other;RELIGIOUS;Religious;Building reserved for the practice of any religious worship.
+Government;ADMIN;Administrative;Building intended for administrative use.
+Government;MILITARY;Military;Building intended for military use.
+Other;ANNEX;Annex;Small building intended for external storage.
+Other;UNDIFF;Undifferenciated;None of the other categories.

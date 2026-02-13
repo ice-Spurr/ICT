@@ -1,0 +1,9 @@
+Milieu;CODE;Nom;Description
+Cave;PIT;Pit;Opening with its mouth located on the ground.
+Cave;CAVE;Cave;Natural cave or excavation.
+Summit;PEAK;Peak;Sharp summit of a mountain.
+Rock;ISOLATED_ROCK;Isolated Rock;Characteristic standing rocky block
+Summit;SUMMIT;Summit;"Highest relief point, without a sharp summit."
+Summit;DEPRESSION;Depression;A relief point significantly lower than the surroundings.
+Topographic extremum;HI_POINT;High Point;A high relief point.
+Topographic extremum;LO_POINT;Low Point;A low relief point.

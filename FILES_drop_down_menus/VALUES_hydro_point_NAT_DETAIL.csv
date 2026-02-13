@@ -1,0 +1,9 @@
+Milieu;CODE;Nom;Description
+Terrestrial;TROUGH;Watering Point > Trough;A structure designed to collect water for watering livestock.
+Maritime;WRECK;Sea Mark > Wreck;"A beached boat, protruding from the surface and thus constituting a topographical landmark."
+Maritime;LIGHTHOUSE;Sea Mark > Lighthouse;Tall tower bearing at its summit a powerful fire intended to guide ships during the night.
+Terrestrial;WELL;Watering Point > Well;Artificial well.
+Terrestrial;RESERVOIR;Watering Point > Reservoir;Water reservoir.
+Terrestrial;BOG;Marsh > Bog;"A wetland characterized by the progressive accumulation of peat. The soil is characterized by its very high content of organic matter, little or not decomposed, of plant origin."
+Maritime;TURRET;Sea Mark > Turret;"A circular, non-illuminated masonry maritime beacon structure."
+Maritime;TURRET_LIGHT;Sea Mark > Lighted Turret;"A circular, illuminated masonry structure used for maritime beaconing."

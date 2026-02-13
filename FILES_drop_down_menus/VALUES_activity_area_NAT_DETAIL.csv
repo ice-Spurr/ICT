@@ -1,0 +1,29 @@
+Catégorie;CODE;Nom;Description
+Leisure;SHELTER;Mountain Shelter > Shelter;Simple shelter.
+Leisure;SHEEPFOLD;Mountain Shelter > Sheepfold;Simple sheepfold.
+Leisure;HUT;Mountain Shelter > Hut;Simple hut.
+Culture;SHRINE_FIRE;Landmark >Shrine (Eternal Fire);Roadside shrine (Eternal Fire).
+Culture;SHRINE_CRONES;Landmark > Shrine (Ladies of the Wood);Roadside shrine (Crones).
+Culture;SHRINE_OTHER;Landmark > Shrine (Other);Roadside shrine (Other worship).
+Administrative;DIRECTIONS;Landmark > Directions;Directions or quick travel sign.
+Culture;ORATORY;Landmark > Oratory;Oratory.
+Culture;STATUE_MARK;Landmark > Statue;Roadside statue.
+Health;HOMELESS_SHELTER;Hospital > Homeless Shelter;A living place for homeless people.
+Health;HOSPITAL;Hospital > Hospital;Hospital.
+Health;MEDICAL_TENT;Hospital > Medical Tent;Medical Tent.
+Leisure;INN;Leisure accomodation > Overnight Stopping Place;"Overnight Stopping Place, Inn."
+Religion;AARD;Place of Power > Aard;
+Religion;AXII;Place of Power > Axii;
+Religion;IGNI;Place of Power > Igni;
+Religion;QUEN;Place of Power > Quen;
+Religion;YRDEN;Place of Power > Yrden;
+Artisanal;MINE_OLD;Mine > Old mine;Old mine.
+Artisanal;MINE_DERGROUND;Mine > Unerground Mine;Unerground Mine.
+Artisanal;MINE_SHAFT;Mine > Mineshaft;Mineshaft.
+Culture;CRYPT;Monument > Crypt;Crypt.
+Culture;STATUE_MONU;Monument > Statue;Monumental statue.
+Culture;TOMB;Monument > Tomb;Tomb.
+Culture;TUMULUS;Monument > Tumulus;Tumulus.
+Leisure;REFUGE_KEPT;Refuge > Kept;Kept refuge.
+Leisure;REFUGE_UNKEPT;Refuge > Unkept;Unkept refuge.
+Administrative;LIM_ROAD;Road > Limited Speed;Entering a limited speed area.

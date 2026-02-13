@@ -1,0 +1,13 @@
+Catégorie;CODE;Nom
+Artificial;CANAL;Canal
+Unknown;UNKNOWN;Unknown
+Natural not fitted;NATURAL_FLOW;Natural Flowing
+Natural not fitted;LAKE;Lake
+Natural not fitted;MARSH;Marsh
+Natural not fitted;POND;Pond
+Natural not fitted;SEA;Sea
+Natural not fitted;GULLY;Gully
+Natural not fitted;ROCKS;Rocks
+Natural not fitted;SAND_MUD;Wet sand and Mud
+Natural not fitted;PEBBLES;Pebbles
+Natural fitted;RETINUE;Retinue

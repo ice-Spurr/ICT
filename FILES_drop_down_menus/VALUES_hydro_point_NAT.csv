@@ -1,0 +1,13 @@
+Milieu;CODE;Nom;Description
+Maritime;SEA_MARK;Sea Mark;(Lighthouse|Wreck|NULL) Landmark for navigation visible from the sea.
+Maritime;BEACON;Beacon;"(Turret|NULL) Maritime beacon. Fixed or floating structure, intended to indicate a feature of interest for navigation (danger, obstacle, passage)."
+Fluvial;WATERFALL;Waterfall;"Most often, a cascade is the section where the water of a river no longer flows, but falls. It is a waterfall."
+Maritime;FIRE;Fire;"(Lighted Turret|NULL) A low-power, fixed or flashing light signaling pass entrances or alignments. It can be located on the ground, at the end of a mast or pylon, or on other structures."
+Terrestrial;FOUNTAIN;Fountain;"(NULL) A structure comprising a water supply and, generally, a basin. A fountain can be natural if it is fed by a spring."
+Terrestrial;WASH_HOUSE;Wash House;"(NULL) A structure, covered or not, comprising a basin supplied with water, generally of natural origin, whose primary purpose was to allow for wetting, washing and rinsing laundry."
+Terrestrial;MARSH;Marsh;"(Bog) Wetland, area covered by shallow waters, partly overgrown with vegetation."
+Terrestrial;LOSS;Water Loss;(NULL) A place where a watercourse disappears totally or partially through seepage or into a sinkhole. All or part of the watercourse then becomes underground.
+Terrestrial;WATER_POINT;Watering Point;(Reservoir|Trough|Well|NULL) Any natural or artificial body of water which has a place name or which needs to be designated and which cannot be classified as another 'Nature' of Hydrographic Point.
+Fluvial;RESURGENCE;Resurgence;"(NULL) Point of emergence at the ground surface of a watercourse after an underground course. A resurgence is an exsurgence fed by at least one identified surface watercourse, part or all of which infiltrates the subsoil through one or more sinkholes."
+Fluvial;SOURCE;Source;"(NULL) Point of emergence at the ground surface of water stored inside, without knowledge of an upstream open-air path."
+Fluvial;SOURCE_COLLECT;Collected Source;"(NULL) Installation for capturing a spring. A captured spring can be represented in Nature=""Fountain"" when a basin is constructed at the level of its capture."
