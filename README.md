@@ -1,6 +1,8 @@
 # The Temerian Institute of Cartography
 Welcome to the ICT ! Our Institute mission is to map every single place of the Witcher 3 maps. From White Orchard to Kaer Mohren, from Velen to Skellige, we'll do our best to make your life easier in these incredible places.
 
+/!\ The Rasters files are missing for now (too heavy for github). They include all basemaps extracted from the RedKit (Foliage, Terrain, Normals, etc.)
+
 # Join the project - mapper's side
 You can join the team to help us creating the maps. You can DM me here on GitHub, on Reddit [u/iceSpurr ](https://www.reddit.com/user/iceSpurr/), or on Deviantart [iceSpurr](https://www.deviantart.com/icespurr).
 
