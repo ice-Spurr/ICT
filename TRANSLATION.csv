@@ -307,6 +307,9 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 35001;Aeramas' Manor;Aeramas' Manor;Manoir d'Aeramas;Manoir d'Aeramas
 35002;*Silvren Forest;Silvren§Forest;*Forêt Argenthe;Forêt§Argenthe
 
+36001;*Blutenberg Crest;Blutenberg Crest;*Crête de Blutenberg;Crête de Blutenberg
+36002;*Echo Lake;Echo§Lake;*Lac à l'Écho;Lac à§l'Écho
+
 37001;Ferry Station;Ferry Station;Bac;Bac
 37002;Marauders' Bridge;Marauders' Bridge;;
 37003;Source;Sce;Source;Sce
@@ -342,7 +345,7 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 42002;Well;Well;Puits;Pts
 42003;Well;Well;Puits;Pts
 42004;Well;Well;Puits;Pts
-42005;Well;Well;Puits;Pts
+
 42006;*Crow's Oak;Crow's Oak;*Chêne au Freux;Chêne au Freux
 42007;Well;Well;Puits;Pts
 42008;Blackbough;Blackbough;Noirefutaie;Noirefutaie
@@ -351,3 +354,12 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 42011;*Murder Watchtower;Murder Watchtower;*Tour de garde de la Volée;Tour de garde de la Volée
 42012;Boatmakers' Hut;Boatmakers'§Hut;;
 42013;*Troll Forest;Troll Forest;*Forêt du Troll;Forêt du Troll
+
+43001;Livendale;Livendale;;
+43002;*Livendale Graveyard;Livendale§Graveyard;*;
+43003;*Tumuli;Tumuli;*Tumuli;Tumuli
+43004;Lurtch;Lurtch;Lurtch;Lurtch
+43005;Mowshurst;Mowshurst;;
+43006;Reardon Manor;Reardon Manor;Manoir Reardon;Manoir Reardon
+43007;Well;Well;Puits;Pts
+43008;Well;Well;Puits;Pts
