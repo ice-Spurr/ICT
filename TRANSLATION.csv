@@ -313,10 +313,12 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 37001;Ferry Station;Ferry Station;Bac;Bac
 37002;Marauders' Bridge;Marauders' Bridge;;
 37003;Source;Sce;Source;Sce
-37004;*Nilf. Border Post;Nilf. Border Post;*Poste Frontalier Nilf.;Poste Frontalier§Nilf.
+37004;*Nilfgaardian Border Post;Nilfgaardian§Border Post;*Poste Frontalier Nilf.;Poste Frontalier§Nilf.
 37005;*Calveit Watchtower;Calveit Watchtower;*Tour de Guet de Calveit;Tour de Guet de Calveit
 37006;*The New Sloughs;The New Sloughs;*Les Nouveaux Bourbiers;Les Nouveaux Bourbiers
 37007;*Grayrocks Forest;Grayrocks§§§§§§§§§     Forest;*Forêt de Griseroches;Forêt de Griseroches
+37008;Graveyard;G Yd;Cimetière;Cim.
+37009;Graveyard;G Yd;Cimetière;Cim.
 
 38001;Mulbrydale;Mulbrydale;Valmûrier;Valmûrier
 38002;Well;Well;Puits;Pts
@@ -370,3 +372,15 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 
 45001;Bird Island;Bird Island;Île aux Oiseaux;Île aux Oiseaux
 45002;Whales Remains;Whales Remains;Restes de Baleines;Restes de Baleines
+
+
+
+47001;Kimbolt Way;Kimbolt Way;Voie de Kimbolt;Voie de Kimbolt
+47002;House of Respite;House of Respite;Maison du Répit;Maison du Répit
+47003;Well;Well;Puits;Pts
+
+48001;Tower of ???;Tower of ???;Tour de ???;Tour de ???
+48002;*Ruined Windmill;Rned Windmill;*Moulin Ruiné;Moulin Rné
+48003;Ancient Oak;Ancient Oak;Ancien Chêne;Ancien Chêne
+48004;Whispering Hillock;Whispering Hillock;Colline Dolente;Colline Dolente
+48005;Graveyard;G Yd;Cimetière;Cim.

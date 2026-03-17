@@ -1,9 +1,9 @@
 Catégorie;CODE;Nom;Description
 High vegetation;WOOD;Wood;"Cover ≥ 40%, 50 to 1000 m²"
 High vegetation;FOREST_OPEN;Open Forest;"Cover 20-60%, ≥ 500 m², clr ≥ 500 m²"
-High vegetation;FOREST_DECID;Deciduous Forest;"Cover ≥ 60%, ≥ 500 m², clr ≥ 500 m², ≥ 75% decid."
-High vegetation;FOREST_CONIF;Coniferous Forest;"Cover ≥ 60%, ≥ 500 m², clr ≥ 500 m², ≥ 75% conif."
-High vegetation;FOREST_MIXED;Mixed Forest;"Cover ≥ 40%, ≥ 500 m², clr ≥ 500 m², 25 to 75% decid."
+High vegetation;FOREST_DECID;Closed Forest - Deciduous;"Cover ≥ 60%, ≥ 500 m², clr ≥ 500 m², ≥ 75% decid."
+High vegetation;FOREST_CONIF;Closed Forest - Coniferous;"Cover ≥ 60%, ≥ 500 m², clr ≥ 500 m², ≥ 75% conif."
+High vegetation;FOREST_MIXED;Closed Forest - Mixed;"Cover ≥ 40%, ≥ 500 m², clr ≥ 500 m², 25 to 75% decid."
 Low vegetation;SHRUB;Shrubland;"Cover ≥ 25%, ≥ 50 m²"
 Low vegetation;MOOR;Moor;"Cover ≥ 25%, ≥ 500 m², height ≤ 2 m"
 Low vegetation;GARDEN;Garden;"Flowers, grass, shrubs, trees used for ornament."
