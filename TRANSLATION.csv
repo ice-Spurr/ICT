@@ -333,6 +333,11 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 39004;Wolven Glade;Wolven Glade;Bosquet aux Loups;Bosquet aux Loups
 
 40001;*Pass of Audacity;Pass of Audacity;*Passage de l'Audace;Passage de l'Audace
+40002;*Strajinka Island;Strajinka Island;*Île Strajinka;Île Strajinka
+40003;*Ruhige Island;Ruhige Island;*Île Ruhige;Île Ruhige
+40004;*The Islet;The Islet;*L'Îlot;L'Îlot
+40005;*Burning Island;Burning Island;*Île Brûlante;Île Brûlante
+40006;*The Horseshoe;The Horseshoe;*Le Fer à Cheval;Le Fer à Cheval
 
 41001;Midscope;Midscope;Hautbreuil;Hautbreuil
 41002;Coast of Wrecks;Coast of Wrecks;Côte aux Épaves;Côte aux Épaves
@@ -391,5 +396,26 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 49004;Rns;Rns;Rnes;Rnes
 49005;Source;Sce;Source;Sce
 49006;Source;Sce;Source;Sce
-49007;Ruined Dragonslayer's Keep;Rned§Dragonslayer's§Keep;???;???
-49008;Dragonhorn Peak;Dragonhorn Peak;Pic de la Corne du Dragon;Pic de la Corne du Dragon
+49007;*Ruined Dragonslayer's Keep;Rned§Dragonslayer's§Keep;*???;???
+49008;*Dragonhorn Peak;Dragonhorn Peak;*Pic de la Corne du Dragon;Pic de la Corne du Dragon
+
+50001;Drudge;Drudge;???;???
+50002;Well;Well;Puits;Pts
+50003;Graves;Gves;Tombes;Tbes
+50004;Graves;Gves;Tombes;Tbes
+50005;Elvish Graves;Elv. Gves;Tombes Elfes;Tbes Elf.
+50006;Grave;Gve;Tombe;Tbe
+
+51001;Claywitch;Claywitch;???;???
+51002;Honorton;Honorton;Havrefier;Havrefier
+51003;Oreton;Oreton;Oreton;Oreton
+51004;Rns of§Wastrel Manor;Rns of§Wastrel Manor;Rnes du§Manoir Wastrel;Rnes du§Manoir Wastrel
+51005;*The Dead-End;The Dead-End;*L'Impasse;L'Impasse
+
+52001;Fyke Isle;Fyke Isle;Île de Fyke;Île de Fyke
+52002;Lake Wyndamer;Lake Wyndamer;Lac Wyndamer;Lac Wyndamer
+52003;Baron Vserad's Tower;Baron Vserad's§Tower;Tour du Baron Vserad;Tour du§Baron Vserad
+52004;Forefathers' Circle;Forefathers'§Circle;Cercle des Ancêtres;Cercle des§Ancêtres
+52005;Crypt;Crypt;Crypte;Crypte
+52006;Well;Well;Puits;Pts
+52007;Submerged Ruins of Castle X;Subm. Rns§of Castle X;???;???
