@@ -339,7 +339,7 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 40005;*Burning Island;Burning Island;*Île Brûlante;Île Brûlante
 40006;*The Horseshoe;The Horseshoe;*Le Fer à Cheval;Le Fer à Cheval
 
-41001;Midscope;Midscope;Hautbreuil;Hautbreuil
+41001;Midcopse;Midcopse;Hautbreuil;Hautbreuil
 41002;Coast of Wrecks;Coast of Wrecks;Côte aux Épaves;Côte aux Épaves
 41003;Boatyard;Boatyard;Chantier Naval;Chantier Naval
 41004;*Fort Jente;Fort Jente;*Fort Jente;Fort Jente
@@ -419,3 +419,8 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 52005;Crypt;Crypt;Crypte;Crypte
 52006;Well;Well;Puits;Pts
 52007;Submerged Ruins of Castle X;Subm. Rns§of Castle X;???;???
+
+53001;Condyle;Condyle;Condyle;Condyle
+53002;Duén Hen;Duén Hen;Duén Hen;Duén Hen
+53003;Well;Well;Puits;Pts
+53004;Elven Ruins;Elven Ruins;Ruines Elfiques;Ruines Elfiques
