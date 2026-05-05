@@ -319,6 +319,9 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 37007;*Grayrocks Forest;Grayrocks§§§§§§§§§     Forest;*Forêt de Griseroches;Forêt de Griseroches
 37008;Graveyard;G Yd;Cimetière;Cim.
 37009;Graveyard;G Yd;Cimetière;Cim.
+37010;*Ruined Landing Stage;Rnd Land. Stg;*Débarquadère Ruiné;Débarq. Rné
+37011;*Klepp's Beak;Klepp's Beak;*Le Bec de Klepp;le Bec de Klepp
+37012;*the Perched Pond;the Perched§Pond;*la Mare Perchée;la Mare§Perchée
 
 38001;Mulbrydale;Mulbrydale;Valmûrier;Valmûrier
 38002;Well;Well;Puits;Pts
@@ -327,10 +330,14 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 38005;*Fireburst Harbor;Fireburst Harbor;*Port de Boutefeu;Port de Boutefeu
 38006;*Swamp Bint Harbor;Swamp Bint§Harbor;*Port de la Ribaude des Marais;Port de la§Ribaude des Marais
 
-39001;Heaterton;Heaterton;Bourg-la-Lande;Bourg-la-Lande
+39001;Heatherton;Heatherton;Bourg-la-Lande;Bourg-la-Lande
 39002;Well;Well;Puits;Pts
 39003;Abandoned Tower;Abandoned Tower;Tour Abandonnée;Tour Abandonnée
 39004;Wolven Glade;Wolven Glade;Bosquet aux Loups;Bosquet aux Loups
+39005;*Blowing Wold;Blowing Wold;*?;?
+39006;*The Crest;The Crest;*La Crête;La Crête
+39007;*Ursen Hollow;Ursen Hollow;Creux de l'Ours;Creux de l'Ours
+39008;*Shornhigh Hill;Shornhigh Hill;*Colline de Hautondu;Colline de Hautondu
 
 40001;*Pass of Audacity;Pass of Audacity;*Passage de l'Audace;Passage de l'Audace
 40002;*Strajinka Island;Strajinka Island;*Île Strajinka;Île Strajinka
@@ -352,7 +359,7 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 42002;Well;Well;Puits;Pts
 42003;Well;Well;Puits;Pts
 42004;Well;Well;Puits;Pts
-
+42005;Well;Well;Puits;Pts
 42006;*Crow's Oak;Crow's Oak;*Chêne au Freux;Chêne au Freux
 42007;Well;Well;Puits;Pts
 42008;Blackbough;Blackbough;Noirefutaie;Noirefutaie
@@ -361,6 +368,8 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 42011;*Murder Watchtower;Murder Watchtower;*Tour de garde de la Volée;Tour de garde de la Volée
 42012;Boatmakers' Hut;Boatmakers'§Hut;;
 42013;*Troll Forest;Troll Forest;*Forêt du Troll;Forêt du Troll
+42014;*The Crater;The Crater;*Le Cratère;Le Cratère
+42015;*Goer Moor;Goer Moor;*Lande aux Morveux;*Lande aux Morveux
 
 43001;Livendale;Livendale;;
 43002;*Livendale Graveyard;Livendale§Graveyard;*;
@@ -370,13 +379,17 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 43006;Reardon Manor;Reardon Manor;Manoir Reardon;Manoir Reardon
 43007;Well;Well;Puits;Pts
 43008;Well;Well;Puits;Pts
+43009;*The Ditch;The Ditch;*Le Fossé;Le Fossé
+43010;Graves;Gvs;Cimetière;Cim.
 
 44001;Torderas;Torderas;Torderas;Torderas
 44002;Benek;Benek;;
 44003;Temple of Lilvani;Temple of§Lilvani;Temple de Lilvani;Temple de§Lilvani
+44004;*Upper Hudebos;Upper Hudebos;*?;?
 
 45001;Bird Island;Bird Island;Île aux Oiseaux;Île aux Oiseaux
 45002;Whales Remains;Whales Remains;Restes de Baleines;Restes de Baleines
+45003;*Namenlos Mounts;Namenlos Mounts;*Monts Anonymes;Monts Anonymes
 
 
 
@@ -388,7 +401,7 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 48002;*Ruined Windmill;Rned Windmill;*Moulin Ruiné;Moulin Rné
 48003;Ancient Oak;Ancient Oak;Ancien Chêne;Ancien Chêne
 48004;Whispering Hillock;Whispering Hillock;Colline Dolente;Colline Dolente
-48005;Graveyard;G Yd;Cimetière;Cim.
+48005;Graves;Gves;Tombes;Tbes
 
 49001;Downwarren;Downwarren;Culterrier;Culterrier
 49002;Crookback Bog;Crookback Bog;Marais de Torséchine;Marais de Torséchine
