@@ -6,7 +6,7 @@ Military;FORT;Fort;(NULL) Defensive military construction.
 Other;UNDIFF;Undifferenciated;"(Lighthouse|NULL) Default value, whenever the general appearance of a building reveals nothing of its exact nature."
 Other;MONUMENT;Monument;(NULL) Any kind of monument.
 Professionnal;MILL;Mill;(Watermil|Windmilll) Building intended for grinding grain.
-Military;TWOER;Tower;(Watchtower|NULL) Building that stands out in the landscape due to its tall shape.
+Military;TOWER;Tower;(Watchtower|NULL) Building that stands out in the landscape due to its tall shape.
 Professionnal;GRANDSTAND;Grandstand;(NULL) Sport field grandstands.
 Other;HOUSING;Housing;(Building|House|Refugee Tent) Place of residence.
 Professionnal;SHOP;Shop;"(Armorer|Bank|Blacksmith|Butcher|Fishmonger|Hawker|Tailor) Place of business. If residence on site, add under Use."

@@ -354,6 +354,7 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 41006;*Whale;Whale;*Baleine;Baleine
 41007;*Pagan Statue;Pagan Statue;*Statue Païenne;Statue Païenne
 41008;Well;Well;Puits;Pts
+41009;*Grove of the Anchorite;Grove of the§Anchorite;*Bosquet de l'Anachorète;Bosquet de§l'Anachorète
 
 42001;Crow's Perch;Crow's Perch;Perchefreux;Perchefreux
 42002;Well;Well;Puits;Pts
@@ -381,6 +382,8 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 43008;Well;Well;Puits;Pts
 43009;*The Ditch;The Ditch;*Le Fossé;Le Fossé
 43010;Graves;Gvs;Cimetière;Cim.
+43011;*Scaly Forest;Scaly Forest;*Forêt aux Écailles;Forêt aux Écailles
+43012;*Grayval Forest;Grayval Forest;*Forêt de Grisval;Forêt de Grisval
 
 44001;Torderas;Torderas;Torderas;Torderas
 44002;Benek;Benek;;
@@ -391,17 +394,18 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 45002;Whales Remains;Whales Remains;Restes de Baleines;Restes de Baleines
 45003;*Namenlos Mounts;Namenlos Mounts;*Monts Anonymes;Monts Anonymes
 
-
+46001;*The Barrier;The Barrier;*La Barrière;La Barrière
 
 47001;Kimbolt Way;Kimbolt Way;Voie de Kimbolt;Voie de Kimbolt
 47002;House of Respite;House of Respite;Maison du Répit;Maison du Répit
 47003;Well;Well;Puits;Pts
 
-48001;Tower of ???;Tower of ???;Tour de ???;Tour de ???
+48001;Tower of the Kaedweni;Tower of§the Kaedweni;Tour du Kaedwenien;Tour du Kaedwenien
 48002;*Ruined Windmill;Rned Windmill;*Moulin Ruiné;Moulin Rné
 48003;Ancient Oak;Ancient Oak;Ancien Chêne;Ancien Chêne
 48004;Whispering Hillock;Whispering Hillock;Colline Dolente;Colline Dolente
 48005;Graves;Gves;Tombes;Tbes
+48006;*Lower Hudebos;Lower Hudebos;*?;?
 
 49001;Downwarren;Downwarren;Culterrier;Culterrier
 49002;Crookback Bog;Crookback Bog;Marais de Torséchine;Marais de Torséchine
@@ -443,3 +447,18 @@ ID;NAME_EN_full;NAME_EN_disp;NAME_FR_full;NAME_FR_disp
 54003;Well;Well;Puits;Pts
 54004;Elven Ruins;Elven Ruins;Ruines Elfiques;Ruines Elfiques
 54005;Circle of the Gods;Circle of the Gods;Cercle des Dieux;Cercle des Dieux
+
+
+
+56001;Frischlow;Frischlow;Frischlow;Frischlow
+56002;*Olena's Grove;Olena's Grove;*Bosquet d'Olena;Bosquet d'Olena
+56003;Well;Well;Puits;Pts
+
+57001;Bald Mountain;Bald Mountain;Mont Chauve;Mont Chauve
+57002;Oak Tree;Oak Tree;Chêne;Chêne
+
+58001;Destroyed Bastion;Dest.§Bastion;Bastion Ruiné;Bastion§Rné
+
+
+
+60001;Nilfgaardian Army Group 'Center' Camp;Nilfgaardian Army§Group 'Center' Camp;Camp Nilfgaardien Groupe d'Armée 'Centre';Camp Nilfgaardien§Groupe d'Armée 'Centre'

@@ -27,3 +27,4 @@ Residential;DISTRICT;District;(NULL) City district.
 Military;TOWER;Tower;(NULL) Defensive tower.
 Administrative (Limits);LIM_COMMUNE;Commune Limit;(NULL) Commune Limit.
 Administrative (Limits);LIM_STATE;State Border;(NULL) State border.
+Military;TOWER_WATCH;Watchtower;(NULL) Tower used mainly for spotting ennemy troops.
